@@ -2,23 +2,58 @@
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="docs/assets/logo-light.svg">
-      <img height="100" alt="Endee" src="docs/assets/logo-dark.svg">
+      <img height="100" alt="Endee Logo" src="docs/assets/logo-dark.svg">
   </picture>
 </p>
 
 <p align="center">
-    <b>High-performance open-source vector database for AI search, RAG, semantic search, and hybrid retrieval.</b>
+  <b>Endee — A high-performance open-source vector database designed for AI-powered search, RAG pipelines, semantic search, and hybrid retrieval.</b>
 </p>
 
 <p align="center">
-    <a href="./docs/getting-started.md"><img src="https://img.shields.io/badge/Quick_Start-Local_Setup-success?style=flat-square" alt="Quick Start"></a>
-    <a href="https://docs.endee.io/quick-start"><img src="https://img.shields.io/badge/Docs-Quick_Start-success?style=flat-square" alt="Docs"></a>
-    <a href="https://github.com/endee-io/endee/blob/master/LICENSE"><img src="https://img.shields.io/github/license/endee-io/endee?style=flat-square" alt="License"></a>
-    <a href="https://discord.gg/5HFGqDZQE3"><img src="https://img.shields.io/badge/Discord-Join_Chat-5865F2?logo=discord&style=flat-square" alt="Discord"></a>
-    <a href="https://endee.io/"><img src="https://img.shields.io/badge/Website-Endee-111111?style=flat-square" alt="Website"></a>
-    <!-- <a href="https://endee.io/benchmarks"><img src="https://img.shields.io/badge/Benchmarks-Coming_Soon-1F8B4C?style=flat-square" alt="Benchmarks"></a> -->
-    <!-- <a href="https://endee.io/cloud"><img src="https://img.shields.io/badge/Cloud-Coming_Soon-2496ED?style=flat-square" alt="Cloud"></a> -->
+    <a href="./docs/getting-started.md">
+        <img src="https://img.shields.io/badge/Quick_Start-Local_Setup-success?style=flat-square" alt="Quick Start">
+    </a>
+    <a href="https://docs.endee.io/quick-start">
+        <img src="https://img.shields.io/badge/Docs-Quick_Start-success?style=flat-square" alt="Docs">
+    </a>
+    <a href="https://github.com/endee-io/endee/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/endee-io/endee?style=flat-square" alt="License">
+    </a>
+    <a href="https://discord.gg/5HFGqDZQE3">
+        <img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?logo=discord&style=flat-square" alt="Discord">
+    </a>
+    <a href="https://endee.io/">
+        <img src="https://img.shields.io/badge/Website-Endee-111111?style=flat-square" alt="Website">
+    </a>
 </p>
+
+<p align="center">
+<strong>
+<a href="./docs/getting-started.md">Quick Start</a> • 
+<a href="#why-endee">Why Endee</a> • 
+<a href="#use-cases">Use Cases</a> • 
+<a href="#features">Features</a> • 
+<a href="#api-and-clients">API & Clients</a> • 
+<a href="#docs-and-links">Documentation</a> • 
+<a href="#community-and-contact">Community</a>
+</strong>
+</p>
+
+---
+
+# 🚀 Endee: Open-Source Vector Database for AI Search
+
+Endee is a scalable and high-performance vector database built to power modern AI applications. It enables fast similarity search, efficient storage of embeddings, and seamless integration with Retrieval-Augmented Generation (RAG) systems.
+
+Whether you're building intelligent search engines, recommendation systems, or LLM-powered applications, Endee provides the speed, flexibility, and reliability you need.
+
+## ✨ Key Highlights
+- ⚡ High-speed vector similarity search
+- 🧠 Optimized for AI/ML workloads
+- 🔍 Supports semantic and hybrid search
+- 🔗 Easy integration with LLM pipelines (RAG)
+- 📦 Open-source and developer-friendly</p>
 
 <p align="center">
 <strong><a href="./docs/getting-started.md">Quick Start</a> • <a href="#why-endee">Why Endee</a> • <a href="#use-cases">Use Cases</a> • <a href="#features">Features</a> • <a href="#api-and-clients">API and Clients</a> • <a href="#docs-and-links">Docs</a> • <a href="#community-and-contact">Contact</a></strong>
